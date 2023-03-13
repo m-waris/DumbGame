@@ -1,0 +1,45 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    margin-left: 8em;
+}
+.btn {
+    background-color: rgb(68, 85, 101);
+    color: white;
+    font-size: 20px;
+    width: 90px;
+    height: 72px;
+
+  }
+  
+  .btn:hover {
+    background-color: rgb(63, 85, 148);
+  }
+
+  #msg {
+    display: none;
+    position: fixed;
+    margin-top: 320px;
+    margin-left: 1000px;
+    color: rgb(246, 246, 246);
+    font-size: 35px;
+
+  }
+  h2{
+    margin-bottom: -14px;
+    margin-left: 400px;
+    color: rgb(109, 232, 109);
+  }
+  .fa-circle-o{
+    color: rgb(159, 169, 169);
+  }
+  .fa-home{
+    color: rgb(125, 247, 122);
+  }
+  .fa-bomb{
+    color: rgb(227, 81, 81);
+  }
+  .fa-heart{
+    color: rgb(234, 216, 95);
+  }
